@@ -178,12 +178,24 @@ h3 {
 
 
 .footer {
-    padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
+    text-align: right;
+    padding: 25px;
+    background-color: #385F79;
+
 }
 
 .footer h2 {
-    font-size: 20px;
+    font-size:  20px;
+    float: left ;
+    margin: 0px 40px ;
+  
+    
+}
+footer .seo {
+    color: #d9dcd6;
+}
+footer p {
+    margin: 7px 40px;
 }
